@@ -1,7 +1,6 @@
 // Loops:-
 /* 
   for loop
-  Nested foor loop
   while loop
  */
 
